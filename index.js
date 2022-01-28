@@ -1,5 +1,8 @@
 #!/usr/bin/env node
 
+// Based on Fireship video
+// https://www.youtube.com/watch?v=_oHByo8tiEY
+
 import chalk from 'chalk';
 import chalkAnimation from 'chalk-animation'
 import inquirer from 'inquirer';

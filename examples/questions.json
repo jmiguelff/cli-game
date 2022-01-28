@@ -25,12 +25,12 @@
         "name": "question_3",
         "message": "What is the name of the IOC creator:\n",
         "choices": [
-            "Alchymist",
+            "????",
             "The Forger",
             "Saru Steelfury",
             "Big Daddy"
         ],
-        "answer": "The Forger"
+        "answer": "????"
     },
     {
         "name": "question_4",
