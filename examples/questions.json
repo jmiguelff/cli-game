@@ -1,0 +1,46 @@
+[
+    {
+        "name": "question_1",
+        "message": "The IOC project core values are:\n",
+        "choices": [
+            "Art, Community, Respect",
+            "Money, Flex, Lulz",
+            "Scamm, Rug, Troll",
+            "FOMO, P&D, Spam"
+        ],
+        "answer": "Art, Community, Respect"
+    },
+    {
+        "name": "question_2",
+        "message": "The original IOC collection has how many traits:\n",
+        "choices": [
+            "10000",
+            "5000",
+            "7890",
+            "6666"
+        ],
+        "answer": "6666"
+    },
+    {
+        "name": "question_3",
+        "message": "What is the name of the IOC creator:\n",
+        "choices": [
+            "Alchymist",
+            "The Forger",
+            "Saru Steelfury",
+            "Big Daddy"
+        ],
+        "answer": "The Forger"
+    },
+    {
+        "name": "question_4",
+        "message": "Give me the four elements:\n",
+        "choices": [
+            "Oxygen, Hydrogen, Nitrogen, Phosphorus",
+            "DJing, MCing, B-Boying, Writing",
+            "Earth, Water, Fire, Air",
+            "Crypto, NFT, DeFi, Blockchain"
+        ],
+        "answer": "DJing, MCing, B-Boying, Writing"
+    }
+]
